@@ -1,0 +1,54 @@
+.bella{
+  background-image: url('../img/backgrounds/landing.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  border: 1px solid #e3e3e3;
+}
+.jumbotron {
+  margin: 1px;
+  border: 2px;
+  padding: 1px;
+}
+
+.bella{
+  color:white;
+}
+.overlay.min{
+  paddind: 0;
+  height: 8px;
+  width: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  border: 1px solid #e3e3e3;
+}
+
+.meal-label {
+  bottom: 120px;
+  position: relative;
+  color: white;
+  left: 41%;
+}
+.text{
+  position: relative;
+  color: black;
+}
+.firstfood{
+  color: black;
+  padding-right: 10px;
+  height: 300px;
+  width: 50%;
+  float: right;
+  margin: 0px
+}
+
+.Foodmenu {
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 50px;
+}
